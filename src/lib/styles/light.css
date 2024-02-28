@@ -1,0 +1,56 @@
+body {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+  color: #000;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+a {
+  color: #0f72db;
+  font-size: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+button:hover {
+  background-color: #0062cc;
+}
+
+select {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  color: #333;
+}
+
+select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+option {
+  padding: 5px 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
